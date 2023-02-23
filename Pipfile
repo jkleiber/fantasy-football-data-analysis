@@ -10,6 +10,7 @@ matplotlib = "*"
 nfl-data-py = "*"
 plotly = "*"
 jupyter = "*"
+scipy = "*"
 
 [dev-packages]
 autopep8 = "*"
