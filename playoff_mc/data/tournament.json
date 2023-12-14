@@ -1,0 +1,104 @@
+{
+    "teams": [
+        {
+            "rank": 1,
+            "name": "Sean",
+            "mean": 112.3128571,
+            "std": 15.0533934
+        },
+        {
+            "rank": 2,
+            "name": "Justin",
+            "mean": 118.9157143,
+            "std": 28.54137852
+        },
+        {
+            "rank": 3,
+            "name": "Andrea",
+            "mean": 115.6014286,
+            "std": 19.40890908
+        },
+        {
+            "rank": 4,
+            "name": "Cooper",
+            "mean": 111.8957143,
+            "std": 30.33237537
+        },
+        {
+            "rank": 5,
+            "name": "Daniel",
+            "mean": 117.0714286,
+            "std": 18.35406761
+        },
+        {
+            "rank": 6,
+            "name": "Franki",
+            "mean": 130.04,
+            "std": 31.15360258
+        },
+        {
+            "rank": 7,
+            "name": "Davis",
+            "mean": 118.6571429,
+            "std": 22.6004028
+        },
+        {
+            "rank": 8,
+            "name": "BYE",
+            "mean": 0.0,
+            "std": 0.0
+        }
+    ],
+    "games": [
+        {
+            "name": "QF1",
+            "teams": [
+                "Sean"
+            ],
+            "win_game": "SF1",
+            "lose_game": null
+        },
+        {
+            "name": "QF2",
+            "teams": [
+                "Cooper", "Daniel"
+            ],
+            "win_game": "SF1",
+            "lose_game": null
+        },
+        {
+            "name": "QF3",
+            "teams": [
+                "Andrea", "Franki"
+            ],
+            "win_game": "SF2",
+            "lose_game": null
+        },
+        {
+            "name": "QF4",
+            "teams": [
+                "Justin", "Davis"
+            ],
+            "win_game": "SF2",
+            "lose_game": null
+        },
+        {
+            "name": "SF1",
+            "teams": [],
+            "win_game": "F",
+            "lose_game": null
+        },
+        {
+            "name": "SF2",
+            "teams": [],
+            "win_game": "F",
+            "lose_game": null
+        },
+        {
+            "name": "F",
+            "teams": [],
+            "win_game": null,
+            "lose_game": null
+        }
+    ]
+}
