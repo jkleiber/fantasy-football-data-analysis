@@ -1,0 +1,48 @@
+{
+    "teams": [
+        {
+            "rank": 1,
+            "name": "Sean",
+            "mean": 122.636,
+            "std": 14.559702
+        },
+        {
+            "rank": 3,
+            "name": "Andrea",
+            "mean": 117.677333,
+            "std": 20.357773
+        },
+        {
+            "rank": 5,
+            "name": "Daniel",
+            "mean": 117.690667,
+            "std": 17.848287
+        },
+        {
+            "rank": 7,
+            "name": "Davis",
+            "mean": 119.457333,
+            "std": 21.997696
+        }
+    ],
+    "games": [
+        {
+            "name": "SF1",
+            "teams": ["Sean", "Daniel"],
+            "win_game": "F",
+            "lose_game": null
+        },
+        {
+            "name": "SF2",
+            "teams": ["Andrea", "Davis"],
+            "win_game": "F",
+            "lose_game": null
+        },
+        {
+            "name": "F",
+            "teams": [],
+            "win_game": null,
+            "lose_game": null
+        }
+    ]
+}
