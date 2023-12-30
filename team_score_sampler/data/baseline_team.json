@@ -1,0 +1,40 @@
+{
+    "roster": [
+        {
+            "pos": "QB",
+            "name": "Derek Carr"
+        },
+        {
+            "pos": "RB",
+            "name": "Rachaad White"
+        },
+        {
+            "pos": "RB",
+            "name": "D'Andre Swift"
+        },
+        {
+            "pos": "WR",
+            "name": "Davante Adams"
+        },
+        {
+            "pos": "WR",
+            "name": "Puka Nacua"
+        },
+        {
+            "pos": "TE",
+            "name": "Sam LaPorta"
+        },
+        {
+            "pos": "FLEX",
+            "name": "Derrick Henry"
+        },
+        {
+            "pos": "D/ST",
+            "name": "Chargers D/ST"
+        },
+        {
+            "pos": "K",
+            "name": "Tyler Bass"
+        }
+    ]
+}

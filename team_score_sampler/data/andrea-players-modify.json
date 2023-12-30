@@ -1,0 +1,94 @@
+{
+    "players": [
+        {
+            "pos": "QB",
+            "name": "Derek Carr",
+            "mean": 15.168,
+            "std": 7.06
+        },
+        {
+            "pos": "QB",
+            "name": "Jake Browning",
+            "mean": 17.57,
+            "std": 6.598
+        },
+        {
+            "pos": "RB",
+            "name": "Rachaad White",
+            "mean": 18.917,
+            "std": 3.253
+        },
+        {
+            "pos": "RB",
+            "name": "D'Andre Swift",
+            "mean": 10.283,
+            "std": 6.236
+        },
+        {
+            "pos": "RB",
+            "name": "Derrick Henry",
+            "mean": 15.913,
+            "std": 8.589
+        },
+        {
+            "pos": "RB",
+            "name": "Zamir White",
+            "mean": 14.0,
+            "std": 3.775
+        },
+        {
+            "pos": "RB",
+            "name": "Clyde Edwards-Helaire",
+            "mean": 12.233,
+            "std": 6.831
+        },
+        {
+            "pos": "WR",
+            "name": "Davante Adams",
+            "mean": 14.316,
+            "std": 7.977
+        },
+        {
+            "pos": "WR",
+            "name": "Puka Nacua",
+            "mean": 17.767,
+            "std": 9.622
+        },
+        {
+            "pos": "WR",
+            "name": "Tee Higgins",
+            "mean": 14.53,
+            "std": 9.309
+        },
+        {
+            "pos": "TE",
+            "name": "Sam LaPorta",
+            "mean": 15.266,
+            "std": 11.534
+        },
+        {
+            "pos": "D/ST",
+            "name": "Chargers D/ST",
+            "mean": 6.473,
+            "std": 5.313
+        },
+        {
+            "pos": "D/ST",
+            "name": "Chiefs D/ST",
+            "mean": 7.487,
+            "std": 3.906
+        },
+        {
+            "pos": "D/ST",
+            "name": "Colts D/ST",
+            "mean": 11.213,
+            "std": 8.190
+        },
+        {
+            "pos": "K",
+            "name": "Tyler Bass",
+            "mean": 8.517,
+            "std": 5.164
+        }
+    ]
+}
